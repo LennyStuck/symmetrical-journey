@@ -29,7 +29,7 @@ for (let i = 0; i < 2; i++) {
 };
 
 
-// Wикл While
+// Цикл While
 
 // let i = 0;
 // while (i < 2) {
